@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+}
+button {
+    text-align: center;
+    border: 10px;
+    border-radius: 7px;
+    color: white;
+    padding: 15px 32px;
+    font-size: medium;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    opacity: 1;
+}
+
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.começar {
+    background-color: green;
+}
+.parar {
+    background-color: red;
+}
+.voltar {
+    background-color: rgb(0, 42, 212);
+}
